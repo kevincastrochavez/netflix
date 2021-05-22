@@ -17,7 +17,7 @@ export const Input = styled.input`
   max-width: 450px;
   width: 100%;
   border: 0;
-  padding: 10px;
+  padding: 20px;
   height: 70px;
   box-sizing: border-box;
 `;
